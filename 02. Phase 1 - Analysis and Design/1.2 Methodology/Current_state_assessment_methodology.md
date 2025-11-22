@@ -1,16 +1,30 @@
-# Current state assessment - Methodology
-To realise the current statement it's really important to apply methodologies based on best business analyst practices. 
+# Current State Assessment - Methodology
+To realize the current state assessment, it is essential to apply methodologies based on best Business Analyst practices. The purpose of this assessment is to:
+
+- Identify the strengths and weaknesses of existing systems.
+- Identify current security vulnerabilities and risks.
+- Verify compliance with legal and regulatory requirements.
+- Assess the technological maturity of the organization.
+
+This diagnostic is crucial to:
+
+- Define the project scope clearly.
+- Steer the IAM strategy to adopt.
+- Align all stakeholders on the objectives and expectations.
+  
+When this assessment is properly conducted, it provides a solid foundation for implementation and helps identify corrective actions before the beginning of the migration. Additionally, the methodology is iterative and involves continuous validation with stakeholders to ensure accuracy and relevance.
+  
 ## 1. Data gathering 
-As IAM Business Analyst, I organized several interview with stakeholders (IT, security and RH), review current documentation (pentest reports, internal audits, IAM procedures) and fields observations. 
-The main objective is to obtain a factual and quantitative vision about the current IAM ecosystem statement. 
+As an IAM Business Analyst, I organize several interviews with stakeholders (IT, Security, HR) and review current documentation such as pentest reports, internal audits, and IAM procedures. I also perform field observations. The main objective is to obtain a factual and quantitative view of the current IAM ecosystem.
 
 ## 2. Business process analysis
-I also realise several AS IS BPMN which describe the current state of the main business process used within the company. 
-Those BPMN will allow me to compare the targeted processes in the "future state vision" section and to highlight the gaps. 
+I conduct several "AS IS" business process models using BPMN to describe the current state of the main business processes within the company. These diagrams facilitate the comparison with the targeted processes in the future state vision section and help highlight gaps. 
 
 ## 3. SWOT Analysis 
-I also decided to realise a SWOT analysis. This analysis allows me to identify strengths, weaknesses, opportunities and threats. This table give a synthetic and strategic vision to the decision-makers. 
+I also conduct a SWOT analysis to identify strengths, weaknesses, opportunities, and threats. This synthesis provides decision-makers with a strategic and comprehensive overview.
 
 ## 4. mapping of systems and responsabilities 
 
-Finally, I decided to realise a mapping of systems and responsabilities. This table is essential to identify the silos, overlaps and unclear areas  of responsibility.
+Finally, I create a mapping of systems and responsibilities. This mapping is essential to identify organizational silos, overlaps, and unclear areas of accountability. It also helps to understand the existing governance framework and regulatory compliance context.
+
+This combined methodology ensures a thorough and collaborative current state assessment, forming a reliable basis for defining an effective IAM roadmap and strategy.
