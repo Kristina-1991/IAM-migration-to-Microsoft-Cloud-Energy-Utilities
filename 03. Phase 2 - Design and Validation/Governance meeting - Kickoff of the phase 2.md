@@ -27,7 +27,7 @@ All Phase 2 deliverables received full approval:
 
 Approved Solution: Best of Breed Hybrid
 
-Target Architecture:
+**Target Architecture:**
 
 - Workday (HR source of truth)
 - Microsoft Entra ID + Active Directory (hybrid identity/SSO)
