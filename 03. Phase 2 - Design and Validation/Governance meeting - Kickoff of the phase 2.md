@@ -25,7 +25,7 @@ All Phase 2 deliverables received full approval:
 - ✅ Technical Design (Workday + Entra ID + AD + Governance + Sentinel)
 - ✅ Governance Ownership (IAM CoE, Shared Responsibility Model)
 
-Approved Solution: Best of Breed Hybrid
+**Approved Solution: Best of Breed Hybrid**
 
 **Target Architecture:**
 
